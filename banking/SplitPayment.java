@@ -1,4 +1,4 @@
-package payment;
+package banking;
 import java.util.*;
 
     class Participant {
